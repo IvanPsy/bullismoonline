@@ -14,7 +14,7 @@ tags:
   - Educazione digitale per adulti
   - socializzazione
   - adolescenti e videogames
-  - ricerche sccientifiche sul cyberbullismo
+  - ricerche scientifiche sul cyberbullismo
 featured: false
 ---
 
@@ -26,20 +26,20 @@ Uno studio longitudinale della The University of Texas at Arlington ha rilevato 
 
 ## Quali risultati ci fornisce la ricerca
 
-Lo studio ha coinvolto 15000 ragazzi che in origine avevano un'età compresa tra i 7 e i 12 anni, partendo dal 1995 per finire nel 2008, quando gli stessi partcipanti avevano trea i 25 e i 32 anni.
+Lo studio ha coinvolto 15000 ragazzi che in origine avevano un'età compresa tra i 7 e i 12 anni, partendo dal 1995 per finire nel 2008, quando gli stessi partecipanti avevano tra i 25 e i 32 anni.
 
-I partecipanti sono stati reclutati attrrazverso la National Longitudinal Study of Adolescent to Adult Health (Add Health).
+I partecipanti sono stati reclutati attraverso la National Longitudinal Study of Adolescent to Adult Health (Add Health).
 
 Nello studio non è stata rilevata alcuna correlazione tra quantità di consumo di videogiochi violenti e grado di aggressività dei partecipanti nel corso del loro sviluppo dall'età pre-adolescenziale all'età adulta.
 
-Inoltre lo stesso conduttore della ricerca ha dichiarato che l ostesso risultato è emerso in altre tre sue ricerche dello stesso tipo.
+Inoltre lo stesso conduttore della ricerca ha dichiarato che lo stesso risultato è emerso in altre tre sue ricerche dello stesso tipo.
 
 ## Perché è importante per comprendere il Cyberbullismo
 
-Spesso si tende ad associare i videogiochi violenti ad una presunta maggiore aggressvità da parte dei loro giocatori, ragazzi in primis.
-Eppure sempre più ricerche mettono in dubbio questa presunta correlazione, anzi spesso si verifica un rapporto di causa-effetto inverso: i ragazzi scelgono di giocare ad un videogioco violento spinti da una rabbia, aggrressività o frustrazione che già sentono dentro di loro.
+Spesso si tende ad associare i videogiochi violenti ad una presunta maggiore aggressività da parte dei loro giocatori, ragazzi in primis.
+Eppure sempre più ricerche mettono in dubbio questa presunta correlazione, anzi spesso si verifica un rapporto di causa-effetto inverso: i ragazzi scelgono di giocare ad un videogioco violento spinti da una rabbia, aggressività o frustrazione che già sentono dentro di loro.
 
-Inoltre i videogiochi si fanno sempre più comnplessi sia nel loro gameplay che nella loro struttura, per cui risutla sempre più difficile catalogare un videogioco come violento, laddove spesso l'elemento della violenza non è l'unico modo per portare alla conclusione le missioni.
+Inoltre i videogiochi si fanno sempre più complessi sia nel loro gameplay che nella loro struttura, per cui risulta sempre più difficile catalogare un videogioco come violento, laddove spesso l'elemento della violenza non è l'unico modo per portare alla conclusione le missioni.
 
 Comprendere quali cause portano effettivamente al Cyberbullismo è importante per comprendere su cosa lavorare per la prevenzione e l'intervento sul fenomeno.
 
