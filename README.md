@@ -1,3 +1,16 @@
+> # ⛔ ARCHIVIO — repository dismesso
+>
+> **Il dominio `bullismoonline.it` non è più gestito da Ivan Ferrero (constatato il 10 agosto 2026).**
+> Il sito raggiungibile a quell'indirizzo è di terzi e **non ha alcun rapporto con questo repository**.
+>
+> Questo repo resta come archivio dei contenuti scritti fra il 2014 e il 2020 (~65 post). **Non modificarlo, non pubblicarlo, e soprattutto non trattarlo come una superficie viva in bonifiche o audit:** una correzione fatta qui non raggiunge nessun lettore.
+>
+> Perché il cartello esiste: il 10/08/2026 la bonifica della data d'iscrizione all'Albo ha corretto e committato il footer di questo layout **prima** di accorgersi che il dominio non era più di Ivan. Lavoro perso. Senza un marcatore visibile, la prossima bonifica ci ricasca.
+>
+> ⚠️ Chi cita questo progetto in una bio o in un media kit deve usare la forma **al passato e senza dominio**: «Ho fondato e diretto dal 2009 un portale divulgativo sulla sicurezza digitale e sul cyberbullismo». Nominare l'indirizzo manda chi verifica su un sito che Ivan non controlla.
+
+---
+
 # Jekyll Template - Mediumish by WowThemes.net
 
 [Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Buy me a coffe](https://www.buymeacoffee.com/sal)
