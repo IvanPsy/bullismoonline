@@ -1,13 +1,18 @@
 # ⛔ ARCHIVIO — il dominio bullismoonline.it non e' piu' gestito da Ivan Ferrero (10/08/2026).
 # Il sito live a quell'indirizzo e' di terzi. Non pubblicare da questo repo. Vedi README.
+#
+# 11/08/2026: rimosso il file CNAME e azzerato l'url di produzione.
+# Il custom domain va tolto anche dalle impostazioni GitHub Pages del repository.
 
 # Site
 # buxec jekyll serve --watch --limit_posts 0
 # https://sharathdt.github.io/busslismoonline/
 name: "BullismoOnline"
-url: https://bullismoonline.it
-description: "Jekyll Template for Blogging"
-meta_description: "Jekyll template, Medium styled, free for bloggers."
+# url: era https://bullismoonline.it — azzerato l'11/08/2026, il dominio non e' piu' di Ivan.
+# Non reimpostarlo su bullismoonline.it. Se un giorno si ripubblica, va scelto un altro indirizzo.
+url: ""
+description: "Archivio del portale divulgativo BullismoOnline (2009-2020). Non piu' pubblicato."
+meta_description: "Archivio del portale divulgativo BullismoOnline (2009-2020)."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 #baseurl: /busslismoonline
@@ -29,12 +34,14 @@ include:
 
 # Authors
 authors:
+  # NB: la chiave "Dr Ivan Ferrero" non va rinominata, e' referenziata nel front matter
+  # di ~42 post. Il display_name invece si', ed e' stato corretto (norma OPL: niente "Dr").
   Dr Ivan Ferrero:
     name: Ivan Ferrero
-    display_name: Dr Ivan Ferrero
+    display_name: Ivan Ferrero
     gravatar: /assets/images/Ivan-Ferrero.jpg
     email: ivanferrero1975@outlook.com
-    web: www.bullismoonline.it
+    web: https://ivanferrero.it
     twitter: https://twitter.com/IvanPsy
     facebook: https://www.facebook.com/ivanferreropsicologo
     description: "CyberPsychologist at New Media Psychologist - Teenagers and New Media"

@@ -1,106 +1,109 @@
-> # ⛔ ARCHIVIO — repository dismesso
+# BullismoOnline — archivio del progetto (2009–2020)
+
+> ## ⛔ Repository di archivio. Non pubblicare da qui.
 >
-> **Il dominio `bullismoonline.it` non è più gestito da Ivan Ferrero (constatato il 10 agosto 2026).**
-> Il sito raggiungibile a quell'indirizzo è di terzi e **non ha alcun rapporto con questo repository**.
+> **Il dominio `bullismoonline.it` non è più gestito da Ivan Ferrero.** Constatato il
+> 10 agosto 2026. Il sito raggiungibile a quell'indirizzo appartiene a terzi e **non
+> ha alcun rapporto con questo repository**: non ne condivide il codice, non ne
+> condivide la redazione, non è pubblicato da qui.
 >
-> Questo repo resta come archivio dei contenuti scritti fra il 2014 e il 2020 (~65 post). **Non modificarlo, non pubblicarlo, e soprattutto non trattarlo come una superficie viva in bonifiche o audit:** una correzione fatta qui non raggiunge nessun lettore.
+> Di conseguenza: **una modifica fatta in questo repo non raggiunge nessun lettore.**
+> Non trattarlo come una superficie viva in bonifiche, audit o correzioni redazionali.
 >
-> Perché il cartello esiste: il 10/08/2026 la bonifica della data d'iscrizione all'Albo ha corretto e committato il footer di questo layout **prima** di accorgersi che il dominio non era più di Ivan. Lavoro perso. Senza un marcatore visibile, la prossima bonifica ci ricasca.
+> Perché questo cartello esiste: il 10/08/2026 una bonifica su un dato anagrafico ha
+> corretto e committato il footer di questo layout *prima* di accorgersi che il dominio
+> non era più di Ivan. Lavoro perso. Senza un marcatore visibile, la volta dopo ci si
+> ricasca.
 >
-> ⚠️ Chi cita questo progetto in una bio o in un media kit deve usare la forma **al passato e senza dominio**: «Ho fondato e diretto dal 2009 un portale divulgativo sulla sicurezza digitale e sul cyberbullismo». Nominare l'indirizzo manda chi verifica su un sito che Ivan non controlla.
+> ⚠️ **Chi cita questo progetto in una bio, in un media kit o in una presentazione** deve
+> usare la forma al passato e senza dominio: «Ho fondato e diretto dal 2009 un portale
+> divulgativo sulla sicurezza digitale e sul cyberbullismo». Nominare l'indirizzo manda
+> chi verifica su un sito che Ivan non controlla.
 
 ---
 
-# Jekyll Template - Mediumish by WowThemes.net
+## Cos'era
 
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Buy me a coffe](https://www.buymeacoffee.com/sal)
+**BullismoOnline** è nato nel 2009 come uno dei primi presìdi divulgativi italiani
+dedicati al cyberbullismo, in un momento in cui in Italia il fenomeno non aveva ancora
+un nome condiviso, né una legge (la 71/2017 sarebbe arrivata otto anni dopo), né
+materiali per genitori e insegnanti scritti da chi lavorava con gli adolescenti.
 
-![mediumish](assets/images/mediumish-jekyll-template.png)
+La tesi del progetto, tenuta per undici anni, era che il cyberbullismo non fosse un
+problema di tecnologia da spegnere ma **la convergenza di un disagio** che passa
+attraverso il digitale perché è lì che gli adolescenti vivono le relazioni. Da qui
+l'impostazione: mai allarmismo, mai «togliete il cellulare», sempre il tentativo di
+rendere leggibile ai grandi ciò che i ragazzi già facevano.
 
-### Features
+Il lettore era doppio: **genitori e insegnanti**, con contenuti pensati per essere
+usati il giorno dopo, non per essere ammirati.
 
-- Built for Jekyll
-- Compatible with Github pages
-- Featured Posts
-- Index Pagination
-- Post Share
-- Post Categories
-- Prev/Next Link
-- Category Archives (this is not yet compatible with github pages though)
-- Jumbotron Categories
-- Integrations:
-    - Disqus Comments
-    - Google Analaytics
-    - Mailchimp Integration
-- Design Features:
-    - Bootstrap v4.x
-    - Font Awesome
-    - Masonry
-- Layouts:
-    - Default
-    - Post
-    - Page
-    - Archive
-    
-### Using Mediumish
+## Cosa c'è dentro
 
-- Open `_config.yml`. If your site is in root, for `baseurl`, make sure this is set to `baseurl: ''`
-Also, change your Google Analytics code, disqus username, authors, Mailchimp list etc.
-- Mediumish requires 2 plugins: 
-    - `$ gem install jekyll-paginate`
-    - `$ gem install jekyll-archives`.
-- Edit the menu and footer copyrights in `default.html`
-- Start by adding your .md files in `_posts`. Mediumish already has a few as an example. 
-- YAML front matter
-    - featured post - `featured:true`
-    - exclude featured post from "All stories" loop to avoid duplicated posts - `hidden:true`
-    - post image - `image: assets/images/mypic.jpg`
-    - page comments - `comments:true`
-    - meta description (optional) - `description: "this is my meta description"`
-    
-**YAML Post Example**:
+Questo repository è la versione Jekyll del sito, congelata all'ultimo aggiornamento
+del 2020. Contiene:
 
-```
+| | |
+|---|---|
+| **48 articoli originali** | in `_posts/`, dal 2 settembre 2014 al 22 settembre 2020 |
+| **Pagine editoriali** | `chi-siamo.md`, `libri-cyberbullismo.md`, `ricerche-scientifiche-cyberbullismo.md`, `risorse-bullismo-online.md`, `contatti.html` |
+| **Documenti legali d'epoca** | privacy policy, privacy estesa, cookie policy, GDPR policy |
+| **Media** | `assets/` e `wp-content/uploads/` — l'eredità della precedente installazione WordPress, da cui il sito è stato migrato |
+| **14 post di esempio** | firmati `sal` o `john`, gennaio–giugno 2018: sono materiale dimostrativo del tema, **non** contenuti del progetto |
+
+I contenuti antecedenti al 2014 (2009–2013) non sono in questo repository: vivevano
+sull'installazione WordPress originale e non sono sopravvissuti alla migrazione.
+
+### Redazione
+
+Il progetto non è stato un blog personale. Oltre a Ivan Ferrero (42 articoli), hanno
+firmato:
+
+- **Mariarosaria Imbimbo**, psicologa psicoterapeuta — 4 articoli
+- **Alessia Sorgato**, avvocato penalista — 1 articolo (l'analisi della legge 71/2017)
+- **Alessandra Fabriani**, neuropsicomotricista — 1 articolo
+
+I loro pezzi restano di loro titolarità. Vedi `LICENSE`.
+
+### Alcuni pezzi che reggono ancora
+
+- *Cos'è il Cyberbullismo? L'Idra 2.0* (2016) — la metafora che ha retto tutta l'impostazione del progetto
+- *Glossario del Cyberbullismo e del Web dei nostri Adolescenti* (2014)
+- *Hikikomori: quando l'adolescenza diventa isolamento e perdita di Sé* (2015)
+- *Come ho usato Clash of Clans per iniziare con un adolescente* (2017)
+- *Cyberbullismo e la Legge: perché è così difficile?* (2016)
+
+## Stato tecnico
+
+- **Jekyll** con tema [Mediumish](https://www.wowthemes.net) di WowThemes.net
+- Plugin richiesti: `jekyll-paginate`, `jekyll-archives`
+- ⛔ **Nessun custom domain.** Il file `CNAME` è stato rimosso l'11 agosto 2026 e la
+  voce *custom domain* va azzerata nelle impostazioni GitHub Pages del repository.
+  Finché resta dichiarata, un account di Ivan risulta agganciato a un dominio che
+  non controlla.
+- `_config.yml` non contiene più un `url` di produzione: questo repo non è destinato
+  a essere pubblicato.
+
+Se un giorno si volesse rimetterlo online, va rimesso online **sotto un altro
+indirizzo** e con una nota di archivio in testa a ogni pagina.
+
+## Licenza
+
+Due licenze diverse, per due cose diverse. Il dettaglio completo è in [`LICENSE`](LICENSE).
+
+- **Testi degli articoli e delle pagine** → [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.it).
+  Si possono condividere citando l'autore e collegando questo repository, non per scopi
+  commerciali, senza modificarli. Riscrittura e parafrasi automatica rientrano nelle
+  opere derivate, e non sono consentite.
+- **Codice e tema** → MIT (WowThemes.net, e le modifiche successive). Testo originale in
+  [`THEME-LICENSE.txt`](THEME-LICENSE.txt).
+- **Immagini di terzi** in `assets/` e `wp-content/` → dei rispettivi proprietari, non
+  ri-licenziate qui.
+- **Il nome «BullismoOnline»** e l'identità visiva non sono coperti dalla licenza CC.
+
+Per usi che eccedono la licenza: [ivanferrero.it](https://ivanferrero.it)
+
 ---
-layout: post
-title:  "We all wait for summer"
-author: john
-categories: [ Jekyll, tutorial ]
-image: assets/images/5.jpg
-featured: true
----
-```
 
-`comments: false` - disable comments in posts
-
-`image: "https://www.myexternal.com/image.jpg"`  - set external featured image
-    
-**YAML Page Example**:
-
-```
----
-layout: page
-title: Mediumish Template for Jekyll
-comments: true
----
-```
-
-### Copyright
-
-Copyright (C) 2018 WowThemes.net.
-
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
-
-<a href="https://www.buymeacoffee.com/sal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-### Contribute
-
-- [Clone the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-- Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-- Open a pull request on GitHub and describe the feature or fix.
-
-Thank you so much for your contribution!
-
------------------
-
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip)
+*Ivan Ferrero — psicologo psicoterapeuta, cyberpsicologo.*
+*Archivio congelato al 2020. Cartello di archivio aggiornato l'11 agosto 2026.*

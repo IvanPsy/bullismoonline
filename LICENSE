@@ -1,0 +1,80 @@
+# LICENZA — BullismoOnline (archivio)
+
+Questo repository contiene due cose diverse, con due licenze diverse.
+Non confonderle: il codice è libero, i testi no.
+
+⚠️ **Nota preliminare sul dominio.** Il dominio `bullismoonline.it` non è più
+gestito da Ivan Ferrero dal 2026. Il sito attualmente raggiungibile a quell'indirizzo
+appartiene a terzi, **non è pubblicato da questo repository e non è coperto da questa
+licenza**. La presenza di testi di questo archivio su quel sito, o su qualsiasi altro
+sito, non implica alcuna autorizzazione.
+
+---
+
+## 1. Contenuti editoriali — CC BY-NC-ND 4.0
+
+**Cosa copre:** i testi degli articoli in `_posts/`, i testi delle pagine
+(`_pages/`, `chi-siamo.md`, `libri-cyberbullismo.md`,
+`ricerche-scientifiche-cyberbullismo.md`, e simili), le infografiche e le
+immagini originali prodotte per il progetto.
+
+**Titolarità:** © 2009–2020 Ivan Ferrero e i rispettivi autori firmati.
+Gli articoli firmati da **Mariarosaria Imbimbo**, **Alessia Sorgato** e
+**Alessandra Fabriani** restano di titolarità dei rispettivi autori: sono
+ospitati qui come contributi al progetto, e chi volesse riusarli deve
+rivolgersi a loro.
+
+**Licenza:** [Creative Commons Attribuzione – Non commerciale – Non opere derivate 4.0
+Internazionale (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.it)
+
+In sintesi — e il testo legale completo prevale su questa sintesi — sei libero di
+condividere il materiale con qualsiasi mezzo e formato, alle seguenti condizioni:
+
+- **Attribuzione (BY)** — devi riconoscere una menzione di paternità adeguata,
+  con il nome dell'autore e un collegamento a questo repository, e indicare se
+  hai apportato modifiche.
+- **Non commerciale (NC)** — non puoi usare il materiale per scopi commerciali.
+  Rientra nell'uso commerciale anche la ripubblicazione su un sito che monetizza
+  il traffico tramite pubblicità, affiliazione o vendita di servizi.
+- **Non opere derivate (ND)** — se remixi, trasformi il materiale o ti basi su di
+  esso, non puoi distribuire il materiale così modificato. Rientra in questa
+  clausola anche la riscrittura o la parafrasi automatica del testo.
+
+**Non coperto dalla licenza:** immagini, fotografie, grafici, copertine di libri,
+loghi e altri materiali di terzi presenti in `assets/` e `wp-content/uploads/`,
+inclusi nei singoli articoli a titolo di citazione o su concessione. Restano di
+titolarità dei rispettivi proprietari e non sono ri-licenziati qui.
+
+**Per usi non consentiti da questa licenza** (uso commerciale, opere derivate,
+traduzioni, adattamenti) è necessaria l'autorizzazione scritta preventiva:
+https://ivanferrero.it
+
+---
+
+## 2. Codice, tema e template — MIT
+
+**Cosa copre:** i file di struttura Jekyll (`_layouts/`, `_includes/`, `_sass/`,
+`_config.yml`, `Gemfile`), i CSS e i JavaScript del tema.
+
+Il tema è **Mediumish for Jekyll**, di [WowThemes.net](https://www.wowthemes.net),
+rilasciato sotto licenza MIT. Il testo originale della licenza del tema è
+conservato in `THEME-LICENSE.txt`. Le modifiche apportate da Ivan Ferrero al tema
+sono rilasciate anch'esse sotto licenza MIT.
+
+I post di esempio del tema, firmati `sal` o `john` e datati gennaio–giugno 2018
+(«What is Jekyll», «Quick Start Guide», «We all wait for summer», e simili), sono
+materiale dimostrativo di WowThemes.net e **non** sono contenuti editoriali del
+progetto BullismoOnline.
+
+---
+
+## 3. Marchio e nome
+
+«BullismoOnline» come nome di progetto, il logo e l'identità visiva non sono
+oggetto della licenza CC di cui al punto 1. L'uso del nome in modo che possa
+indurre a ritenere che un sito, un servizio o una pubblicazione sia gestita da
+Ivan Ferrero, o abbia la sua approvazione, non è autorizzato.
+
+---
+
+*Ultimo aggiornamento: 11 agosto 2026.*

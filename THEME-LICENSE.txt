@@ -1,3 +1,9 @@
+Licenza del TEMA Jekyll (Mediumish by WowThemes.net).
+Riguarda solo codice, layout e stili. NON riguarda i testi degli articoli:
+per quelli vale la licenza CC BY-NC-ND 4.0 descritta in LICENSE.
+
+-----------------------------------------------------------------------
+
 Copyright (c) 2019 WowThemes.net
 License: MIT
 
