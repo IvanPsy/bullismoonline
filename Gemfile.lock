@@ -1,11 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-<<<<<<< HEAD
-    addressable (2.7.0)
-=======
     addressable (2.8.0)
->>>>>>> dependabot/bundler/addressable-2.8.0
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.8)
@@ -54,15 +50,6 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
-<<<<<<< HEAD
-    rb-fsevent (0.10.4)
-    rb-inotify (0.10.1)
-      ffi (~> 1.0)
-    rexml (3.2.4)
-    rouge (3.26.0)
-    safe_yaml (1.0.5)
-    sass (3.7.4)
-=======
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
@@ -70,7 +57,6 @@ GEM
     ruby_dep (1.5.0)
     safe_yaml (1.0.4)
     sass (3.7.1)
->>>>>>> dependabot/bundler/addressable-2.8.0
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)

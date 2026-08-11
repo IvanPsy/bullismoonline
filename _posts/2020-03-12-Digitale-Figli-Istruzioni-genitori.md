@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-03-12T10:18:38+00:00
-permalink: /speciali-bullismo-online/
+permalink: /digitale-figli-istruzioni-genitori/
 title:  "Digitale e Figli: istruzioni per i genitori"
 author: Dr Ivan Ferrero
 image: assets/images/ragazza-social-media.jpeg

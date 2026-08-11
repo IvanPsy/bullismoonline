@@ -51,7 +51,7 @@ del 2020. Contiene:
 | **Pagine editoriali** | `chi-siamo.md`, `libri-cyberbullismo.md`, `ricerche-scientifiche-cyberbullismo.md`, `risorse-bullismo-online.md`, `contatti.html` |
 | **Documenti legali d'epoca** | privacy policy, privacy estesa, cookie policy, GDPR policy |
 | **Media** | `assets/` e `wp-content/uploads/` — l'eredità della precedente installazione WordPress, da cui il sito è stato migrato |
-| **14 post di esempio** | firmati `sal` o `john`, gennaio–giugno 2018: sono materiale dimostrativo del tema, **non** contenuti del progetto |
+| **14 post di esempio** | firmati `sal` o `john`, gennaio–giugno 2018: materiale dimostrativo del tema Mediumish, **non** contenuti del progetto. Spostati in `_theme-demo/` l'11/08/2026, fuori dal build |
 
 I contenuti antecedenti al 2014 (2009–2013) non sono in questo repository: vivevano
 sull'installazione WordPress originale e non sono sopravvissuti alla migrazione.
@@ -74,6 +74,46 @@ I loro pezzi restano di loro titolarità. Vedi `LICENSE`.
 - *Hikikomori: quando l'adolescenza diventa isolamento e perdita di Sé* (2015)
 - *Come ho usato Clash of Clans per iniziare con un adolescente* (2017)
 - *Cyberbullismo e la Legge: perché è così difficile?* (2016)
+
+## La nota introduttiva
+
+`archivio.md` → **[/archivio/](https://ivanpsy.github.io/bullismoonline/archivio/)**, scritta
+l'11 agosto 2026 e linkata dalla fascia di archivio in cima a ogni pagina e dal menu.
+
+È il documento pubblico che spiega cos'era BullismoOnline, perché oggi è un archivio, e che
+contiene la riga chiave:
+
+> Il dominio `bullismoonline.it` non è più mio, e il sito che ci sta sopra oggi non ha nulla
+> a che fare con me.
+
+Se un giorno serve mandare qualcuno a un solo indirizzo (un giornalista, un committente, un
+collega che ha trovato i testi altrove), è quello.
+
+## Inventario e prova di paternità
+
+Fuori dal repository, in `Documents/divulgazione/bullismoonline/`:
+
+| File | Cosa contiene |
+|---|---|
+| `dossier-bullismoonline-2026-08-11.md` | Il rilievo della ripubblicazione dei contenuti sul dominio di terzi |
+| `triage-editoriale-archivio-2026-08-11.md` | Triage dei 48 articoli in tre pile: 14 ancora validi, 18 datati ma interessanti, 16 da lasciare fuori |
+| `semi-osservatorio-da-bullismoonline.md` | Angoli retrospettivi per l'Osservatorio |
+| `prove/archivio-paternita.txt` | `git log --reverse` di `_posts/` |
+| `prove/archivio-paternita-esteso.txt` | Log esteso con hash, email e primo commit di ogni file |
+| `prove/inventario-archivio.md` | Inventario completo: data, titolo, autore, categorie, lunghezza |
+
+⚠️ **Un avvertimento sul valore probatorio del log git.** La storia di questo repository
+comincia il **7 febbraio 2019** con il commit iniziale firmato `sharath Kumar`, lo
+sviluppatore che fece la migrazione da WordPress a Jekyll. **Tutti i 41 articoli dal 2014 al
+2018 sono entrati in quel singolo commit**, non uno per uno alla loro data. Solo gli 11
+articoli dal luglio 2019 in poi hanno un commit datato e firmato `IvanPsy` che coincide con
+la scrittura.
+
+Quindi il log git prova il **possesso del corpus dal febbraio 2019**, che è comunque sette
+anni prima della copia, e l'autorialità diretta sui pezzi 2019-2020. Per il nucleo 2014-2018
+serve altro: le cartelle `wp-content/uploads/` con la struttura anno/mese dal 2014 al 2018
+(la media library WordPress migrata), le fatture di dominio e hosting in `vita/finanze`, e le
+istantanee Wayback del sito originale.
 
 ## Stato tecnico
 
@@ -116,4 +156,4 @@ Per usi che eccedono la licenza: [ivanferrero.it](https://ivanferrero.it)
 ---
 
 *Ivan Ferrero — psicologo psicoterapeuta, cyberpsicologo.*
-*Archivio congelato al 2020. Cartello di archivio aggiornato l'11 agosto 2026.*
+*Archivio congelato al 2020. Cartello di archivio, nota introduttiva e triage editoriale: 11 agosto 2026.*

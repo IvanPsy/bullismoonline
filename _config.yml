@@ -19,7 +19,8 @@ description: "Archivio del portale divulgativo BullismoOnline (2009-2020). Conte
 meta_description: "Archivio del portale divulgativo BullismoOnline (2009-2020)."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-google_analytics: 'UA-54137021-1'
+# google_analytics rimosso l'11/08/2026: property Universal Analytics dismessa da Google
+# nel 2023, e su un archivio non serve. Il layout non la referenzia piu'.
 
 #disqus: 'SHORTCODE'
 
