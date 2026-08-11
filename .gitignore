@@ -1,5 +1,20 @@
+# Build Jekyll
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+vendor/
+.bundle/
+
+# Robaccia macOS
 .DS_Store
+.DS_Store?
+._*
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# Robaccia Windows/Linux, per sicurezza
+Thumbs.db
+*~
