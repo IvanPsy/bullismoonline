@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="it">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="shortcut icon" type="image/png" href="/assets/images/favicon.ico"/>
-<title>{{ page.title }} | {{site.name}}</title>
+<link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/assets/images/favicon.ico"/>
+<title>{{ page.title }} | {{site.name}} — archivio 2009-2020</title>
 {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
@@ -17,20 +17,19 @@
 
 <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
 
+<!-- Fascia di archivio: stili inline, cosi' la fascia resta leggibile anche se il CSS del tema non carica. -->
+<style>
+.archive-banner{background:#fff8e1;border:1px solid #e0b400;border-left:6px solid #e0b400;border-radius:4px;padding:1rem 1.25rem;margin:0 0 2rem 0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;font-size:.9rem;line-height:1.55;color:#3d3000}
+.archive-banner p{margin:0 0 .55rem 0}
+.archive-banner p:last-child{margin-bottom:0}
+.archive-banner strong{color:#1f1900}
+.archive-banner .archive-banner-title{font-size:1rem;font-weight:700;letter-spacing:.02em;text-transform:uppercase;color:#7a5c00}
+.archive-banner a{color:#7a5c00;text-decoration:underline}
+.archive-banner .archive-banner-small{font-size:.82rem;color:#5c4a00}
+</style>
+
 {% include cookie-policy.html %}
 </head>
-
-{% if jekyll.environment == 'production' %}
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', '{{site.google_analytics}}', 'auto');
-  ga('send', 'pageview');
-</script>
-{% endif %}
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 
@@ -43,7 +42,15 @@
 <div class="site-content">
 <div class="container">
 
-
+<!-- Fascia di archivio
+================================================== -->
+<aside class="archive-banner" role="note" aria-label="Avviso di archivio">
+  <p class="archive-banner-title">⛔ Archivio storico &middot; 2009&ndash;2020</p>
+  <p>Questo è l'<strong>archivio</strong> del portale divulgativo <em>BullismoOnline</em>, uno dei primi presìdi italiani dedicati al cyberbullismo. <strong>I contenuti si fermano al settembre 2020</strong> e non sono più aggiornati: riferimenti normativi, dati e link possono essere superati.</p>
+  <p>⚠️ <strong>Il dominio <code>bullismoonline.it</code> non è più gestito da Ivan Ferrero.</strong> Il sito oggi raggiungibile a quell'indirizzo appartiene a terzi e <strong>non ha alcun rapporto con questo archivio</strong>, né con l'autore.</p>
+  <p>I moduli di contatto e le informative privacy, cookie e GDPR presenti in queste pagine sono <strong>documenti storici del sito originale</strong>: non descrivono trattamenti in corso e non sono operativi.</p>
+  <p class="archive-banner-small">Testi © 2009&ndash;2020 Ivan Ferrero e i rispettivi autori, distribuiti con licenza <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.it" rel="license noopener" target="_blank">CC BY-NC-ND 4.0</a>: se li riusi, cita l'autore e non modificarli. Per contattare l'autore: <a href="https://ivanferrero.it" rel="noopener" target="_blank">ivanferrero.it</a>.</p>
+</aside>
 
 <!-- Content
 ================================================== -->
@@ -102,12 +109,13 @@
 <footer class="footer">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} | <a href="/gdpr-policy/">GDPR policy</a>
-                 <p>Sito creato e gestito da Ivan Ferrero, Psicologo Psicoterapeuta, iscritto all'Albo degli Psicologi della Lombardia, sezione A, n. 16571 dal 2006, P. IVA 09303360011.<br>Email <a href="mailto:ivanferrero1975@outlook.com">ivanferrero1975@outlook.com</a>.</p>
+            <div class="col-md-8 col-sm-12 text-center text-lg-left">
+                 <p><strong>Archivio di {{ site.name }}, 2009&ndash;2020.</strong> Non più aggiornato. Il dominio <code>bullismoonline.it</code> non è più gestito dall'autore: il sito a quell'indirizzo è di terzi.</p>
+                 <p>Testi © 2009&ndash;2020 Ivan Ferrero e i rispettivi autori, licenza <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.it" rel="license noopener" target="_blank">CC BY-NC-ND 4.0</a>. Tema <a target="_blank" rel="noopener" href="https://www.wowthemes.net">Mediumish</a> di WowThemes.net, licenza MIT. <a href="{{ site.baseurl }}/gdpr-policy/">GDPR policy</a> (documento storico).</p>
+                 <p>Ivan Ferrero, Psicologo Psicoterapeuta, iscritto all'Albo degli Psicologi della Lombardia, sezione A, n. 16571 dal 2006, P. IVA 09303360011.<br>Sito attuale: <a href="https://ivanferrero.it" rel="noopener" target="_blank">ivanferrero.it</a> &middot; Email <a href="mailto:ivanferrero1975@outlook.com">ivanferrero1975@outlook.com</a>.</p>
             </div>
-            <div class="col-md-6 col-sm-6 text-center text-lg-right">
-                <p>Developed by <a target="_blank" href="https://webjeda.com">webjeda</a></p>
+            <div class="col-md-4 col-sm-12 text-center text-lg-right">
+                <p>Developed by <a target="_blank" rel="noopener" href="https://webjeda.com">webjeda</a></p>
             </div>
         </div>
     </div>

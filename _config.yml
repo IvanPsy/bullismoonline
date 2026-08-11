@@ -1,21 +1,24 @@
 # ⛔ ARCHIVIO — il dominio bullismoonline.it non e' piu' gestito da Ivan Ferrero (10/08/2026).
-# Il sito live a quell'indirizzo e' di terzi. Non pubblicare da questo repo. Vedi README.
+# Il sito live a quell'indirizzo e' di terzi e non c'entra con questo repo. Vedi README.
 #
-# 11/08/2026: rimosso il file CNAME e azzerato l'url di produzione.
-# Il custom domain va tolto anche dalle impostazioni GitHub Pages del repository.
+# 11/08/2026: rimosso il file CNAME, tolto il custom domain dalle impostazioni GitHub Pages
+# (rispondeva ancora 302 verso www.bullismoonline.it), e ripubblicato l'archivio su
+# https://ivanpsy.github.io/bullismoonline/ con una fascia di archivio visibile in ogni pagina
+# (vedi _layouts/default.html). Da qui si pubblica: modificare con cognizione.
 
 # Site
 # buxec jekyll serve --watch --limit_posts 0
 # https://sharathdt.github.io/busslismoonline/
 name: "BullismoOnline"
-# url: era https://bullismoonline.it — azzerato l'11/08/2026, il dominio non e' piu' di Ivan.
-# Non reimpostarlo su bullismoonline.it. Se un giorno si ripubblica, va scelto un altro indirizzo.
-url: ""
-description: "Archivio del portale divulgativo BullismoOnline (2009-2020). Non piu' pubblicato."
+# url/baseurl: NON reimpostare su bullismoonline.it, il dominio non e' piu' di Ivan.
+# Dall'11/08/2026 l'archivio e' pubblicato su GitHub Pages a questo indirizzo.
+# baseurl deve restare "/bullismoonline": senza, CSS, JS e link interni si rompono.
+url: https://ivanpsy.github.io
+baseurl: /bullismoonline
+description: "Archivio del portale divulgativo BullismoOnline (2009-2020). Contenuti non aggiornati dal settembre 2020."
 meta_description: "Archivio del portale divulgativo BullismoOnline (2009-2020)."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-#baseurl: /busslismoonline
 google_analytics: 'UA-54137021-1'
 
 #disqus: 'SHORTCODE'

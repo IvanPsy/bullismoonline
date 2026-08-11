@@ -7,8 +7,10 @@
 > ha alcun rapporto con questo repository**: non ne condivide il codice, non ne
 > condivide la redazione, non è pubblicato da qui.
 >
-> Di conseguenza: **una modifica fatta in questo repo non raggiunge nessun lettore.**
-> Non trattarlo come una superficie viva in bonifiche, audit o correzioni redazionali.
+> **Aggiornamento 11/08/2026:** l'archivio è ora pubblicato su
+> https://ivanpsy.github.io/bullismoonline/ con una fascia di archivio in cima a ogni pagina.
+> Quindi una modifica committata qui **raggiunge i lettori dell'archivio**, ma non raggiunge
+> nessuno su `bullismoonline.it`, che è un sito di terzi. Tenere distinte le due cose.
 >
 > Perché questo cartello esiste: il 10/08/2026 una bonifica su un dato anagrafico ha
 > corretto e committato il footer di questo layout *prima* di accorgersi che il dominio
@@ -77,15 +79,23 @@ I loro pezzi restano di loro titolarità. Vedi `LICENSE`.
 
 - **Jekyll** con tema [Mediumish](https://www.wowthemes.net) di WowThemes.net
 - Plugin richiesti: `jekyll-paginate`, `jekyll-archives`
-- ⛔ **Nessun custom domain.** Il file `CNAME` è stato rimosso l'11 agosto 2026 e la
-  voce *custom domain* va azzerata nelle impostazioni GitHub Pages del repository.
-  Finché resta dichiarata, un account di Ivan risulta agganciato a un dominio che
-  non controlla.
-- `_config.yml` non contiene più un `url` di produzione: questo repo non è destinato
-  a essere pubblicato.
+- ⛔ **Nessun custom domain.** Il file `CNAME` è stato rimosso l'11 agosto 2026 e il
+  *custom domain* è stato azzerato nelle impostazioni GitHub Pages. Finché era dichiarato,
+  `ivanpsy.github.io/bullismoonline/` rispondeva **302 verso `www.bullismoonline.it/`**:
+  era GitHub a consegnare al sito di terzi il traffico che arrivava dall'account di Ivan.
+- ✅ **L'archivio è pubblicato** su https://ivanpsy.github.io/bullismoonline/, con una
+  **fascia di archivio visibile in cima a ogni pagina** (`_layouts/default.html`) che dichiara
+  il periodo dei contenuti, la perdita del dominio e la licenza. È una scelta deliberata: dà
+  a Ivan un indirizzo pubblico e sotto il suo controllo dove gli originali stanno con date,
+  firme e licenza in chiaro.
+- ⚠️ `baseurl: /bullismoonline` in `_config.yml` **non va tolto**: è un project site, senza
+  baseurl CSS, JavaScript e link interni si rompono in silenzio.
+- Google Analytics rimosso dal layout l'11/08/2026 (era una property Universal, dismessa da
+  Google nel 2023, e su un archivio non serve).
 
-Se un giorno si volesse rimetterlo online, va rimesso online **sotto un altro
-indirizzo** e con una nota di archivio in testa a ogni pagina.
+Quindi sì, da qui si pubblica: al contrario di quanto valeva fino al 10/08, una modifica
+committata qui **adesso raggiunge un lettore**. Ma raggiunge i lettori dell'archivio, non
+quelli di `bullismoonline.it`.
 
 ## Licenza
 
