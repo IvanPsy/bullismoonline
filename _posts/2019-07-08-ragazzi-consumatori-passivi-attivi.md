@@ -12,6 +12,7 @@ tags:
   - social media per gli adolescenti
   - Educazione digitale per adulti
 featured: false
+canonical: https://ivanferrero.it/archivio/ragazzi-consumatori-attivi-medium/
 ---
 
 # I nostri ragazzi da consumatori passivi a consumatori attivi

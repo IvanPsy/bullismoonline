@@ -16,6 +16,7 @@ tags:
   - adolescenti e videogames
   - ricerche scientifiche sul cyberbullismo
 featured: false
+canonical: https://ivanferrero.it/archivio/videogiochi-violenti-aggressivita/
 ---
 
 # Videogiochi violenti: uno studio mette in discussione gli effetti sui giovani

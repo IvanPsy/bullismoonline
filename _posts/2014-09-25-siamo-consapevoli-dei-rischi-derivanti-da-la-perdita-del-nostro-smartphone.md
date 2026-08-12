@@ -15,6 +15,7 @@ tags:
   - Educazione digitale
   - Privacy
   - Smartphone-loss anxiety disorder
+canonical: https://ivanferrero.it/archivio/perdita-smartphone-negazione-rischio/
 ---
 &nbsp;
 <blockquote><img class="alignleft wp-image-187 size-full" src="http://www.bullismoonline.it/wp-content/uploads/2014/09/Loss-Smartphone.jpg" alt="Loss Smartphone" width="566" height="849" />Una nuova ricerca evidenzia i possibili meccanismi di coping che potrebbero essere necessari per superare la perdita o il furto del proprio smartphone o altri dispositivi digitali ed i problemi di sicurezza che l'utente potrebbe affrontare.</blockquote>

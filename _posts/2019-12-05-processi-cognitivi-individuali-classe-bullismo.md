@@ -11,6 +11,7 @@ tags:
   - effetti bullismo
   - effetti cyberbullismo
 featured: false
+canonical: https://ivanferrero.it/archivio/disimpegno-morale-classe-bullismo/
 ---
 
 ## Processi socio-cognitivi individuali e di classe nel bullismo: uno studio multilivello longitudinale a breve termine

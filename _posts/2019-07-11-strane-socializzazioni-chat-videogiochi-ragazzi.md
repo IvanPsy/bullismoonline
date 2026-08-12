@@ -14,6 +14,7 @@ tags:
   - socializzazione
   - adolescenti e videogames
 featured: false
+canonical: https://ivanferrero.it/archivio/chat-videogiochi-socializzazione/
 ---
 
 # Strane socializzazioni nelle chat dei giochi dei nostri ragazzi

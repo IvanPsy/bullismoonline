@@ -12,6 +12,7 @@ categories:
 tags:
   - cyberbullismo nel mondo
   - leggi sul cyberbullismo
+canonical: https://ivanferrero.it/archivio/cyberbullismo-legge-difficolta-definizione/
 ---
 Nonostante il Cyberbullismo sia iniziato molti anni fa, <a href="http://www.bullismoonline.it/cosa-bullismo-online-idra-2-0/">la sua natura fluida</a> lo rende un fenomeno difficile da definire, che <strong>si evolve con la stessa velocità con la quale si evolve il Web.</strong>
 

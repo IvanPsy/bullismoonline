@@ -14,6 +14,7 @@ tags:
   - socializzazione
   - adolescenti e videogames
 featured: false
+canonical: https://ivanferrero.it/archivio/senso-della-vita-adolescenti/
 ---
 
 ## Adolescenti e digitale, un binomio spesso portatore di disagio, malessere e confusione.

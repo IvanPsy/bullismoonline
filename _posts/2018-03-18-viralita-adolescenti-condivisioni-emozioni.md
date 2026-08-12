@@ -15,6 +15,7 @@ tags:
   - Banca Intesa Sanpaolo video
   - Featured
   - fiore di Plutchik
+canonical: https://ivanferrero.it/archivio/viralita-emozioni-condivisione/
 ---
 <p lang="en-US">Il Cyberbullismo si avvale delle caratteristiche del Web per esprimere tutta la sua efficacia.
 Tra queste, una caratteristica fondamentale è la <a href="/cosa-bullismo-online-idra-2-0/">capacità di rendere virale un post</a>: dal momento che il principale obiettivo di un atto di Cyberbullismo è l'umiliazione psicologica della vittima, è necessario che il post pubblicato diventi il più virale possibile.

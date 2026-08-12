@@ -14,6 +14,7 @@ tags:
   - bullismo online
   - cyberbullismo
   - statistiche cyberbullismo
+canonical: https://ivanferrero.it/archivio/cyberbullismo-bullismo-tradizionale-numeri/
 ---
 <p style="color: #333333;"><a href="http://www.bullismoonline.it/wp-content/uploads/2014/09/Cyberbullying.jpg"><img class="aligncenter wp-image-77 size-full" src="http://www.bullismoonline.it/wp-content/uploads/2014/09/Cyberbullying.jpg" alt="Cyberbullying" width="2048" height="1365" /></a>Mentre tutto il mondo sta parlando di <a style="color: #000000;" title="Cyberbullismo Wikipedia" href="http://it.wikipedia.org/wiki/Cyberbullismo" target="_blank" rel="nofollow noopener"><strong>cyberbullismo</strong></a>, dobbiamo discernere la realtà (numeri) dalla percezione (quello che pensiamo).</p>
 <p style="color: #333333;"><a style="color: #000000;" title="Dan Olwues cyberbullismo" href="http://www.sciencedaily.com/releases/2012/08/120806093942.htm" target="_blank" rel="nofollow noopener">Una ricerca condotta da Dan Olweus</a>, PhD, della University of Bergen, in Norvegia, ci dice che il bullismo online negli USA è meno frequente rispetto al <strong><a style="color: #000000;" title="Bullismo tradizionale Wikipedia" href="http://it.wikipedia.org/wiki/Bullismo" target="_blank" rel="nofollow noopener">bullismo tradizionale</a>.</strong></p>

@@ -14,6 +14,7 @@ tags:
   - cyberbullismo
   - hikikomori
   - sexting
+canonical: https://ivanferrero.it/archivio/glossario-cyberbullismo-2014/
 ---
 <a href="http://www.bullismoonline.it/wp-content/uploads/2014/11/Cyberbullismo_Parole_110914_031719_PM.jpg"><img class="alignnone size-full wp-image-228" src="http://www.bullismoonline.it/wp-content/uploads/2014/11/Cyberbullismo_Parole_110914_031719_PM.jpg" alt="Cyberbullismo_Parole_110914_031719_PM" width="1907" height="944" /></a>
 

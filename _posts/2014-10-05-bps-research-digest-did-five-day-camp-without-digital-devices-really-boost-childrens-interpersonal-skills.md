@@ -14,6 +14,7 @@ tags:
   - adolescenti ed emozioni
   - gestire le emozioni
   - ricerche bullismo online
+canonical: https://ivanferrero.it/archivio/digital-detox-camp-critica-metodologica/
 ---
 <blockquote><a href="http://www.bullismoonline.it/wp-content/uploads/2014/10/No-Smartphone.jpg"><img class="alignleft wp-image-204 size-full" src="http://www.bullismoonline.it/wp-content/uploads/2014/10/No-Smartphone.jpg" alt="No Smartphone" width="414" height="414" /></a> C'è un brillante studio: hanno sottratto a tutti i pre-adolescenti del gruppo i loro dispositivi digitali per cinque giorni e li hanno inviati in un campo estivo e testato le loro abilità interpersonali, e indovinate un po ', anche nei soli cinque giorni queste abilità erano cambiate!</blockquote>
 Ma sarà realmente così?

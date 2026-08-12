@@ -16,6 +16,7 @@ tags:
   - media multitasking
   - ricerche bullismo online
   - sconfiggere il bullismo
+canonical: https://ivanferrero.it/archivio/multitasking-cervello-studio-2014/
 ---
 <blockquote><a href="http://www.bullismoonline.it/wp-content/uploads/2014/09/Multitasking-Brain.png"><img class="alignleft wp-image-194 size-full" src="http://www.bullismoonline.it/wp-content/uploads/2014/09/Multitasking-Brain.png" alt="Effects of a Multitasking Brain" width="806" height="736" /></a>Per la prima volta, i neuroscienziati hanno scoperto che le persone che fanno uso di più dispositivi contemporaneamente hanno minore densità della sostanza grigia in una zona del cervello associata al controllo cognitivo ed emotivo.</blockquote>
 Utilizzare computer portatili, telefoni cellulari e altri dispositivi multimediali nello stesso momento <strong>potrebbe risultare in un'atrofizzazione di importanti strutture nel nostro cervello.</strong>

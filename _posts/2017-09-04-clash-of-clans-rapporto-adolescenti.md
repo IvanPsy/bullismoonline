@@ -15,6 +15,7 @@ tags:
   - come relazionarsi con gli adolescenti
   - Educazione digitale
   - genitori e figli
+canonical: https://ivanferrero.it/archivio/videogioco-aggancio-terapeutico-adolescente/
 ---
 <h1>Come ho usato Clash of Clans per iniziare con un adolescente</h1>
 <div></div>

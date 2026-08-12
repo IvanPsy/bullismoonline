@@ -16,6 +16,7 @@ tags:
   - bullismo online
   - cyberbullismo
   - disagio adolescenziale
+canonical: https://ivanferrero.it/archivio/disconnect-film-cyberbullismo/
 ---
 <b>Disconnect</b> è un film forte del 2012 molto duro in cui si parla di Cyberbullismo ma non solo, non lascia tregua al buonismo e ci presenta le Ombre del Web in tutta la loro crudezza e realtà.
 

@@ -12,6 +12,7 @@ tags:
   - social media per gli adolescenti
   - Educazione digitale per adulti
 featured: false
+canonical: https://ivanferrero.it/archivio/storie-effimere-guerra-attenzione/
 ---
 
 # Le storie: perché sono così importanti per le piattaforme social, e perchè calamitano così tanto l’attenzione dei nostri ragazzi?

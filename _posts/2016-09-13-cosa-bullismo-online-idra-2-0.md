@@ -13,6 +13,7 @@ tags:
   - affrontare cyberbullismo
   - cosa è bullismo online
   - effetti del cyberbullismo
+canonical: https://ivanferrero.it/archivio/cyberbullismo-idra-2-0/
 ---
 <iframe src="https://www.youtube-nocookie.com/embed/fK8LrzzC4-8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
