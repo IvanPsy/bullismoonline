@@ -56,8 +56,9 @@ Su quest'ultimo punto serve essere espliciti.
 
 ## Il dominio non è più mio
 
-Ho tenuto il dominio `bullismoonline.it` dal 2009 fino alla scadenza. Poi non l'ho
-rinnovato, e qualcun altro l'ha registrato.
+Ho tenuto il dominio `bullismoonline.it` dal 2009 al **13 febbraio 2026**, data di
+scadenza dell'ultimo rinnovo a mio nome. Non l'ho rinnovato, e dopo la scadenza
+qualcun altro l'ha registrato.
 
 Lo dico nel modo più chiaro che posso:
 
@@ -70,6 +71,10 @@ trovato lì testi che sembrano miei, quello che stai leggendo **adesso** è l'or
 questo è l'unico posto in cui BullismoOnline continua a essere una cosa mia.
 
 **Se mi cerchi, sono su [ivanferrero.it](https://ivanferrero.it).** Non altrove.
+
+La dichiarazione per esteso, con le date e la catena documentale, sta qui:
+**[ivanferrero.it/bullismoonline](https://ivanferrero.it/bullismoonline/)**. È la
+pagina da citare o inoltrare se qualcuno chiede se quel sito è mio.
 
 ---
 
