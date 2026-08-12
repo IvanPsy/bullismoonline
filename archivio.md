@@ -57,8 +57,9 @@ Su quest'ultimo punto serve essere espliciti.
 ## Il dominio non è più mio
 
 Ho tenuto il dominio `bullismoonline.it` dal 2009 al **13 febbraio 2026**, data di
-scadenza dell'ultimo rinnovo a mio nome. Non l'ho rinnovato, e dopo la scadenza
-qualcun altro l'ha registrato.
+scadenza dell'ultimo rinnovo a mio nome. Non l'ho rinnovato, e il
+**31 marzo 2026** è stato registrato da un altro soggetto, con i dati
+dell'assegnatario oscurati nel registro pubblico.
 
 Lo dico nel modo più chiaro che posso:
 
